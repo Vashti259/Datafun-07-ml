@@ -1,8 +1,3 @@
-## Project Name: Datafun-07-ml
-## Name: Vashti Gambol
-## Date: February 17, 2024
-## Documentation: README.md
-
 ##  Overview
 This is Module 7 where we acknowledge class and regression working in Python.  Python is an object-orientated programming language and we will also add SQL which is a (structured query language) perfect for relational data, to build this model in module 7.
 
