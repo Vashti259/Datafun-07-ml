@@ -26,5 +26,8 @@ Import Seaborn as sns
 others can recreate this project on their machine
 py -m pip freeze>requirement.txt
 
-
+## Git add commit and push to Git Hub
+git add 
+git commit -m "initial comment"
+git push origin main   
 
