@@ -1,0 +1,15 @@
+from commissionemployee import ComissionEmployee
+from decimal import Decimal
+c = CommissionEmployee('Sue', 'Jones', '333-33-3333',)
+    Decimal('10000.00') Decimal ('0.06'00))
+...:
+...:
+c
+
+ComissionEmployee: Sue Jones
+Social Security number: 333-33-3333
+gross sales:10000.00
+Commission rate: 0.06
+
+print(f'{c.earnings():,.2f}')
+   
