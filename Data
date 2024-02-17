@@ -1,4 +1,4 @@
-## Testing Class ComissionEmployee
+Testing Class ComissionEmployee
 from commission employee import ComissionEmployee
 from decimal import Decimal
 c = CommissionEmployee('Sue', 'Jones', '333-33-3333',)
