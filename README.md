@@ -12,3 +12,7 @@ Explore Model
 Clone the current repository to the local machine using git clone https://github.com/Vashti259/Datafun-07-ml
 and execute the work in VSCde. Create a virtual environment in the local machine root folder in VSCode. 
 This new folder is called .venv which will have a .gitignore file to to manage the repository/project.
+Windows terminal installs vinv py -m venv.venv
+Activate venv virtual environment ./.venv/script/activate.ps1
+
+
