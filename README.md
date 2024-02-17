@@ -15,11 +15,12 @@ This new folder is called .venv which will have a .gitignore file to to manage t
 Windows terminal installs vinv py -m venv.venv
 Activate venv virtual environment ./.venv/script/activate.ps1
 
-## Dependencies for Project 
+## Dependencies for Project terminal in VSCode
 Add Python tools to build the project
-import pandas as pd
+** import pandas as pd
 import numpy as np
 Import matplotlib as plt
+Import Seaborn as sns
 
 ## Freeze Dependencies
 others can recreate this project on their machine
