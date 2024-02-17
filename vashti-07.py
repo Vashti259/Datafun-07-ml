@@ -1,5 +1,11 @@
+Datafun-07-ml
+Vashti Gambol
+February 17th, 2024
+
 ## Overview
-This is Module 7 where we acknowledge class and regression working in Python.  Python is an object-orientated programming language and we will also add SQL which is a (structured query language) perfect for relational data, to build this model in module 7.
+This is Module 7 where we acknowledge class and regression working in Python. 
+Python is an object-orientated programming language and we will also add SQL which is a
+(structured query language) perfect for relational data, to build this model in module 7.
 
 ## Objective
 Build   Model,
@@ -23,9 +29,3 @@ Import Seaborn as sns
 ## Freeze Dependencies
 others can recreate this project on their machine
 py -m pip freeze>requirement.txt
-
-## Git add commit and push to Git Hub
-git add 
-git commit -m "initial comment"
-git push origin main   
-
