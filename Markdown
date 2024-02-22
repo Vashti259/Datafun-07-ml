@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Title of the document</title>
-</head>
-<body>
+1895 New York City Weather Extremes
+Highest temperature	97 °F	September 23
+Lowest temperature	-4 °F	February 6
+Highest daily low	77 °F	September 21
+Lowest daily high	8 °F	February 8
+Most daily precipitation	2.0 on January 26
+Most daily snow	4.0 inches	February 2
+Total annual precipitation	35.4 inches	-
+Total annual snow	6.5 inches	-
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
