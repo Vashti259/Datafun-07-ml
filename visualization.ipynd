@@ -4,7 +4,8 @@ nyc.columns = ['Date', 'Temperature', 'Anomally']
 nyc.Date = nyc.Date.floorddive(100)
 nyc.head(3)
 
-Date  Temperature Anomally
-1895         34.2     -3.2
-1896         34.7     -2.7
-1897         35.5     -1.9 
+import seaborn as sns
+### axes =sns.scatterplot data=nyc, x='Date', y='Temperature',
+### ...: hue='Temperature', palette='winter', legend=False
+### ...:
+###...:axeas.set_ylim(10, 70)
